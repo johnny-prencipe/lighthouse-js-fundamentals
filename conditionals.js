@@ -18,6 +18,8 @@ console.log('Now you\'re ready to go outside!'); //now we're reday for our adven
   console.log('Maybe we should stay inside.'); //nope, too cold
 }
 
+
+//voting eligiblity checker
 const isCitizen = true;
 const age = 26;
 
