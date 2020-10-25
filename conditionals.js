@@ -19,7 +19,6 @@ console.log('Now you\'re ready to go outside!'); //now we're reday for our adven
 }
 
 
-//voting eligiblity checker
 const isCitizen = true;
 const age = 26;
 
